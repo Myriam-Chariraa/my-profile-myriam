@@ -1,0 +1,44 @@
+h1 {
+	color: #153243;
+	font-size: 30px;
+	font-family: 'Krona One', sans-serif;
+	letter-spacing: 1px;
+
+}
+body{
+	background-color:#b5838d;
+	font-weight: 90;
+
+}
+
+.fond-blanc{
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 10px;
+    padding: 50px;
+    margin: 40px;
+    text-align: center;
+}
+
+#image-circle
+{
+	border-radius: 30px;
+}
+
+.btn
+{
+	background-color: #626C66;
+	color: white;
+	font-weight: bold;
+	padding: 15px;
+	border-radius: 30px;
+	text-decoration: none;
+
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+	
+}
+ 
